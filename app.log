@@ -1,0 +1,28 @@
+2025-08-06 07:17:37,413 INFO Creating directory; .github\workflows for the file: .gitkeep
+2025-08-06 07:17:37,414 INFO Creating empty file: .github\workflows\.gitkeep
+2025-08-06 07:17:37,414 INFO Creating directory; src\cnnClassifier for the file: __init__.py
+2025-08-06 07:17:37,415 INFO Creating empty file: src\cnnClassifier\__init__.py
+2025-08-06 07:17:37,415 INFO Creating directory; src\cnnClassifier\components for the file: __init__.py
+2025-08-06 07:17:37,422 INFO Creating empty file: src\cnnClassifier\components\__init__.py
+2025-08-06 07:17:37,422 INFO Creating directory; src\cnnClassifier\utils for the file: __init__.py
+2025-08-06 07:17:37,423 INFO Creating empty file: src\cnnClassifier\utils\__init__.py
+2025-08-06 07:17:37,423 INFO Creating directory; src\cnnClassifier\config for the file: __init__.py
+2025-08-06 07:17:37,423 INFO Creating empty file: src\cnnClassifier\config\__init__.py
+2025-08-06 07:17:37,423 INFO Creating directory; src\cnnClassifier\config for the file: configuration.py
+2025-08-06 07:17:37,424 INFO Creating empty file: src\cnnClassifier\config\configuration.py
+2025-08-06 07:17:37,425 INFO Creating directory; src\cnnClassifier\pipeline for the file: __init__.py
+2025-08-06 07:17:37,425 INFO Creating empty file: src\cnnClassifier\pipeline\__init__.py
+2025-08-06 07:17:37,425 INFO Creating directory; src\cnnClassifier\entity for the file: __init__.py
+2025-08-06 07:17:37,425 INFO Creating empty file: src\cnnClassifier\entity\__init__.py
+2025-08-06 07:17:37,426 INFO Creating directory; src\cnnClassifier\constants for the file: __init__.py
+2025-08-06 07:17:37,426 INFO Creating empty file: src\cnnClassifier\constants\__init__.py
+2025-08-06 07:17:37,426 INFO Creating directory; config for the file: config.yaml
+2025-08-06 07:17:37,427 INFO Creating empty file: config\config.yaml
+2025-08-06 07:17:37,427 INFO Creating empty file: dvc.yaml
+2025-08-06 07:17:37,428 INFO Creating empty file: params.yaml
+2025-08-06 07:17:37,428 INFO Creating empty file: requirements.txt
+2025-08-06 07:17:37,429 INFO Creating empty file: setup.py
+2025-08-06 07:17:37,429 INFO Creating directory; research for the file: trials.ipynb
+2025-08-06 07:17:37,430 INFO Creating empty file: research\trials.ipynb
+2025-08-06 07:17:37,430 INFO Creating directory; templates for the file: index.html
+2025-08-06 07:17:37,430 INFO Creating empty file: templates\index.html
