@@ -1,1 +1,12 @@
 [2025-08-10 13:59:53,233: INFO: main: We are in main]
+[2025-08-13 22:13:05,923: INFO: main: We are in main]
+[2025-08-13 22:33:00,106: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-08-13 22:33:00,106: INFO: common: yaml file: C:\Users\Shyam\OneDrive\Desktop\Kidney-disease-Classification\config\config.yaml loaded successfully]
+[2025-08-13 22:33:00,106: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-08-13 22:33:00,106: INFO: common: created directory at: artifacts]
+[2025-08-13 22:33:00,106: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-13 22:33:00,106: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip]
+[2025-08-13 22:33:43,854: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts\data_ingestion\data.zip]
+[2025-08-13 22:33:44,367: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]

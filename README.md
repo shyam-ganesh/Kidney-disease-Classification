@@ -20,7 +20,7 @@ To classify is the kidney is normal or tumorous
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/shyam-ganesh/Kidney-disease-Classification
 ```
 ### STEP 01- Create a virtual environment after opening the repository
 
